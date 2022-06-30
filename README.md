@@ -1,4 +1,4 @@
-# intro-to-node-express
+# node-express-calculator
 My first small calculator application using Node &amp; Express
 
 What I learnt & ustilised:
