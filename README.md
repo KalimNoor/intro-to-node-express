@@ -11,6 +11,7 @@ __dirname allowing to grab the file path of t the html file I created and respon
 How to run application through command line:
 1 -browser and go through to the link: http://localhost:3000/
 2 -Ensure you are in the correct file path directory in command 
+3 -In correct directory run $ npm install express
 3 -Ensure nodemon is installed 
 3 -Run the command nodemon in command line within the correct project directory 
 4 -Refresh link and calculator application will appear ON home page http://localhost:3000/
